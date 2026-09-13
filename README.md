@@ -44,7 +44,7 @@ src/
 ### 安裝與本機執行
 
 1. 複製儲存庫 (Clone the repository)：
-   git clone https://github.com/your-username/pro-task.git
+   git clone https://github.com/qwer070591-arch/pro-task.git
    cd pro-task
 
 2. 安裝相依套件：
